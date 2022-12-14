@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-chart/static/css/main.fc6480cf.css",
+    "main.css": "/react-chart/static/css/main.2a5f9853.css",
     "main.js": "/react-chart/static/js/main.03f50607.js",
     "static/media/Roboto-Regular.eot": "/react-chart/static/media/Roboto-Regular.30b57652c88c5dbd65de.eot",
     "static/media/Roboto-Regular.ttf": "/react-chart/static/media/Roboto-Regular.25e40da956314b12d333.ttf",
@@ -10,11 +10,11 @@
     "static/media/Roboto-Light.woff": "/react-chart/static/media/Roboto-Light.df0f59d80526acc6d0cd.woff",
     "static/media/submit.svg": "/react-chart/static/media/submit.028880192ef12a143fec.svg",
     "index.html": "/react-chart/index.html",
-    "main.fc6480cf.css.map": "/react-chart/static/css/main.fc6480cf.css.map",
+    "main.2a5f9853.css.map": "/react-chart/static/css/main.2a5f9853.css.map",
     "main.03f50607.js.map": "/react-chart/static/js/main.03f50607.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc6480cf.css",
+    "static/css/main.2a5f9853.css",
     "static/js/main.03f50607.js"
   ]
 }
